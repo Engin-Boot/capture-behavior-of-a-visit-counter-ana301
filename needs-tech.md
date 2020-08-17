@@ -5,7 +5,7 @@ that runs the visit-counter
 
   Given I am allowed to access the server that runs the visit counter
   When the server is back in the working state
-  Then recover the server by logging in and refreshing it 
+  Then recover the server by logging in and refreshing it
 
 Scenario: Reconcile counts if the sensor is offline for a while
 
